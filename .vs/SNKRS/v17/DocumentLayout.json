@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\areas\\admin\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\areas\\admin\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\migrations\\202405210522229_update1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\migrations\\202405210522229_update1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\areas\\admin\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\areas\\admin\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\areas\\admin\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\areas\\admin\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|c:\\users\\ngomu\\downloads\\web-selling-shoes-main\\web-selling-shoes-main\\snkrs\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\SNKRS.csproj|solutionrelative:snkrs\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Areas\\Admin\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Areas\\Admin\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Areas\\Admin\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "SNKRS\\Areas\\Admin\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:37:34.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "SNKRS\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAH0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T05:35:57.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "SNKRS\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:22:16.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SNKRS\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAywFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:19:24.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "SNKRS\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAjwCIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:18:59.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SNKRS\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:18:39.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "SNKRS\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:17:29.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "202405210522229_update1.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Migrations\\202405210522229_update1.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Migrations\\202405210522229_update1.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Migrations\\202405210522229_update1.cs",
+              "RelativeToolTip": "SNKRS\\Migrations\\202405210522229_update1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:22:27.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SNKRS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T05:25:48.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "SNKRS\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "SNKRS\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:17:17.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Areas\\Admin\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Areas\\Admin\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Areas\\Admin\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "SNKRS\\Areas\\Admin\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA6wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:17:08.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SNKRS\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAjwCgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:10:31.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "SNKRS\\Controllers\\PortfolioController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIA2wBYAAAAZAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:09:43.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SNKRS\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAjwG0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:09:21.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Areas\\Admin\\ViewModels\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Areas\\Admin\\ViewModels\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Areas\\Admin\\ViewModels\\OrderViewModel.cs",
+              "RelativeToolTip": "SNKRS\\Areas\\Admin\\ViewModels\\OrderViewModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAnwBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:07:57.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SNKRS\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwBYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:07:31.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "SNKRS\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAWwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:07:12.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Models\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Models\\Portfolio.cs",
+              "RelativeToolTip": "SNKRS\\Models\\Portfolio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:06:28.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Models\\Category.cs",
+              "RelativeToolTip": "SNKRS\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:06:23.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Web.config",
+              "RelativeDocumentMoniker": "SNKRS\\Web.config",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\web-selling-shoes-main\\web-selling-shoes-main\\SNKRS\\Web.config",
+              "RelativeToolTip": "SNKRS\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-21T05:01:31.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
